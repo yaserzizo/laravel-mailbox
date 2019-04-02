@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.1",
         "illuminate/container": "5.8.*",
-        "illuminate/database": "^5.8.*",
+        "illuminate/database": "^5.8",
         "illuminate/log": "5.8.*",
         "illuminate/routing": "5.8.*",
         "illuminate/support": "5.8.*",
